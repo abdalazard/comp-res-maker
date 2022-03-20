@@ -2,7 +2,7 @@
 Cria uma comprovante de residência
 *Em processo de criação do form para cadastro
 
-Projeto escrito em cascata.
+Projeto escrito no modelo procedural.
 
 utiliza: PHP(8.00), Materialize, Javascript, CSS e MySql
 

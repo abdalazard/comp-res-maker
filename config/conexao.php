@@ -1,3 +1,3 @@
 <?php 
-    $con = mysqli_connect("localhost","root","","banco");
+    $con = mysqli_connect("localhost","root","123","compresdb");
 ?>

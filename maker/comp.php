@@ -216,7 +216,7 @@
         }
       
       </style>
-      <link rel="stylesheet" href="materialize/css/materialize.min.css">
+      <link rel="stylesheet" href="../materialize/css/materialize.min.css">
   </head>
   <body>           
     <div>

@@ -55,7 +55,7 @@
           position: absolute;
           font-size: 27px;
           left: 680px;
-          top: 130px;
+          top: 120px;
           color:white;
           font-family: Arial, Helvetica, sans-serif;
           text-transform: uppercase;
@@ -63,7 +63,7 @@
         #valor2 {
           position: absolute;
           font-size: 12px;
-          left: 355px;
+          left: 350px;
           top: 527px;
           color:black;
           font-family: Arial, Helvetica, sans-serif;
@@ -90,7 +90,7 @@
         #valor5 {
           position: absolute;
           font-size: 9.5px;
-          left: 726px;
+          left: 722px;
           top: 629px;
           color:black;
           font-family: Arial, Helvetica, sans-serif;
@@ -109,7 +109,7 @@
           position: absolute;
           font-size: 18px;
           left: 675px;
-          top: 190px;
+          top: 180px;
           color:white;
           font-family: Arial, Helvetica, sans-serif;
           text-transform: uppercase;
@@ -118,7 +118,7 @@
           position: absolute;
           font-size: 15px;
           left: 565px;
-          top: 1025px;
+          top: 1020px;
           color:black;
           font-family: Arial, Helvetica, sans-serif;
           text-transform: uppercase;
@@ -126,8 +126,8 @@
         #emissao {
           position: absolute;
           font-size: 11.5px;
-          left: 703px;
-          top: 228px;
+          left: 685px;
+          top: 218px;
           color:white;
           font-family: Arial, Helvetica, sans-serif;
           text-transform: uppercase;
@@ -135,7 +135,7 @@
         #emissao2 {
           position: absolute;
           font-size: 15px;
-          left: 435px;
+          left: 430px;
           top: 1025px;
           color:black;
           font-family: Arial, Helvetica, sans-serif;
@@ -144,8 +144,8 @@
         #periodo1 {
           position: absolute;
           font-size: 12px;
-          left: 630px;
-          top: 290px;
+          left: 623px;
+          top: 280px;
           color:white;
           font-family: Arial, Helvetica, sans-serif;
           text-transform: uppercase;
@@ -153,8 +153,8 @@
         #periodo2 {
           position: absolute;
           font-size: 12px;
-          left: 700px;
-          top: 290px;
+          left: 693px;
+          top: 280px;
           color:azure;
           font-family: Arial, Helvetica, sans-serif;
           text-transform: uppercase;
@@ -232,8 +232,8 @@
       <label  id="valor2" > <?php echo $valor ?>  </label>
       <label  id="valor3" > <?php echo $valor ?>  </label>
       <label  id="valor4" > <?php echo $valor ?>  </label>
-      <label  id="valor5" > <?php echo $valor ?>  </label>
-      <label  id="valor6" > <b><?php echo $valor ?> </b> </label>
+      <label  id="valor5" > <?php echo $valor ?>  </label> 
+      <label  id="valor6" > <b><?php echo $valor ?> </b> </label> 
       <label  id="vencimento2" ><b> <?php echo $vencimento ?> </b> </label>
       <label  id="emissao2" ><?php echo $emissao ?>  </label>
       <label  id="mes1" ><?php echo $mes1 ?>  </label>
